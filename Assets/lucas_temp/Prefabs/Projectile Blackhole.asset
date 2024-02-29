@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004629b820795643b0fd64a4d2399f3, type: 3}
+  m_Name: Projectile Blackhole
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2331716587167652985, guid: 9d9c4071069ec1c4f9367e56089bcb47, type: 3}
+  speed: 2
+  range: 30
+  damage: 1
+  maxHit: -1
+  triggerMode: 1
+  spawnFwdUp: {x: 5, y: 2}
+  delay: 1200
+  cooldown: 3000
+  forceFwdUp: {x: -6, y: 2}
+  forceDirection: 2
+  smoothForce: 0
+  isHoming: 0
+  homingDetect: 10
+  homingSpeed: 11
+  homingRotateSpeed: 5
+  homingDelay: 0
+  stickToTarget: 0
+  stickToWall: 0
+  onHitVFX: {fileID: 0}
+  recycleVFX: 2000
+  hitSameTarget: 1
+  hitSameTargetEvery: 500
+  hitFoe: 1
+  hitFriend: 0
+  isHeal: 0
+  isSiege: 1
+  dmgRandomRange: 0
+  speedWhenFiring: 35
+  maxUpwardsAgnle: 0
+  maxDownwardsAgnle: 0
+  preheatPool: 1

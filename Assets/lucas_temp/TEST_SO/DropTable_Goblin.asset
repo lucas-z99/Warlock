@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc0c3491a243b749a638e1d2705b84b, type: 3}
+  m_Name: DropTable_Goblin
+  m_EditorClassIdentifier: 
+  clickMeToTrim: 0
+  Probability: 0
+  entries:
+  - obj: {fileID: 5759636804416508740, guid: 94204fae2f4dfa341bbeea4913af0817, type: 3}
+    chance: 100
+  - obj: {fileID: 314418356982442584, guid: 90eb1f745c35a244d97039bb92718994, type: 3}
+    chance: 48
+  - obj: {fileID: 8804721545465074851, guid: 43271f6fad1adb2488e4d12280a1e262, type: 3}
+    chance: 60
+  - obj: {fileID: 6392432257012771871, guid: 141f70d6d777c4044b0f04b830280708, type: 3}
+    chance: 30
+  - obj: {fileID: 4719563526409999684, guid: 710db82f1fa316340b8f9aef30a37adf, type: 3}
+    chance: 5
+  trim: 1

@@ -1,0 +1,73 @@
+
+intereact of Destroy() and OnNetworkDespawn() ??
+
+Path of Exile
+	https://www.youtube.com/results?search_query=path+exile
+
+
+
+
+
+
+network  -------------------------------------------------------------------------------
+
+Enemy spawner
+
+
+networktime
+	https://docs-multiplayer.unity3d.com/netcode/current/advanced-topics/networktime-ticks/
+
+
+TEST: decrease server packet timeout? (more traffic but better accuracy?)
+
+
+some nice discussion
+	https://forum.unity.com/threads/synched-navmesh-agents.1262486/
+
+
+
+
+Navmesh  -------------------------------------------------------------------------------
+
+Squuze throw crowds
+	Set avoidance priority to a small (high priority), to allow brush through crowds
+
+how about de-coupling agent & transform? sounds slightly nicer
+	https://docs.huihoo.com/unity/5.5/Documentation/ScriptReference/AI.NavMeshAgent-nextPosition.html
+
+
+Navmesh vs Animation
+	https://docs.unity3d.com/Manual/nav-MixingComponents.html
+	
+
+
+Visual  -------------------------------------------------------------------------------
+
+
+spell range indicator (Projector class?)
+
+
+Post Processing
+	https://www.youtube.com/watch?v=bkPe1hxOmbI
+
+Lazer Beam
+	https://www.youtube.com/watch?v=p47XrPFq1U0
+
+sky box
+https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack-day-night-32236
+
+
+
+
+C#  -------------------------------------------------------------------------------
+
+Async
+https://www.youtube.com/watch?v=WY-mk-ZGAq8
+
+decrease assemble time
+https://www.youtube.com/watch?v=eovjb5xn8y0
+
+
+
+
+

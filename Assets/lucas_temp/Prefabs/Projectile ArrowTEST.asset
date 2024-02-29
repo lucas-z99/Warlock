@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9004629b820795643b0fd64a4d2399f3, type: 3}
+  m_Name: Projectile ArrowTEST
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 187653448068468399, guid: e86a8fb92fb9015458b421efdbf46dc6, type: 3}
+  speed: 70
+  range: 100
+  damage: 100
+  maxHit: 1
+  triggerMode: 1
+  spawnFwdUp: {x: 1.5, y: 2}
+  delay: 0
+  cooldown: 20
+  forceFwdUp: {x: 1, y: 1}
+  forceDirection: 1
+  smoothForce: 0
+  isHoming: 0
+  homingDetect: 10
+  homingSpeed: 11
+  homingRotateSpeed: 5
+  homingDelay: 0
+  stickToTarget: 30
+  stickToWall: 30
+  onHitVFX: {fileID: 5841584482562486449, guid: ce0c689300e17124294d5396a339f7c5,
+    type: 3}
+  recycleVFX: 2000
+  hitSameTarget: 0
+  hitSameTargetEvery: 1000
+  hitFoe: 1
+  hitFriend: 0
+  isHeal: 0
+  isSiege: 0
+  dmgRandomRange: 20
+  speedWhenFiring: 100
+  maxUpwardsAgnle: 30
+  maxDownwardsAgnle: 0
+  preheatPool: 0
