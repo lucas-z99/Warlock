@@ -3,7 +3,7 @@
 
 ### Why?
 
-Wrote so many UI and local projects, it's time to play with the server side.
+Wrote many UI and other 'local' projects, it's time to play with the server side.
 
 ### Snapshot
 V1 https://www.youtube.com/watch?v=j6FzhCG17Xs
